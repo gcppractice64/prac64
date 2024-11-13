@@ -1,0 +1,4 @@
+This text file potrate the how merge works.
+1. Merger will combine two branch commits and aprat from that new commit will create .
+2. This merge will useful when we need to preserve the history of brachces .
+
