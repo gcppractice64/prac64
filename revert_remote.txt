@@ -1,0 +1,3 @@
+This example illustrates the revert operation.
+1. If we want to rever commits after push commits to github .
+git rever HEAD
