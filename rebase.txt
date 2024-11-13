@@ -1,5 +1,0 @@
-#This rebase creates linear history commints , no extra commit not required 
-
-A -> B -> C -> D  --> Linear commit history
-
-It combines both branch commits as sequencail and clear history .
