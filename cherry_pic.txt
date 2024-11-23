@@ -1,0 +1,12 @@
+# cherry_pic example 
+when you want to pic specfic commit from branch and push to other branch.
+STEP:-
+1. create a file
+2. create couple of commits in a file
+2. pic specfic commit to and push to other branch
+
+#making second commit 
+Here I am picking this commit and push to main branch .
+
+now what happnes , only second commit content go to the main branch.
+#"cherry-pic 3rd commit"
